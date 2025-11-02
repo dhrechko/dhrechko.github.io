@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Пример сайта</title>
     <link rel="stylesheet" href="style.css"> <!-- подключение CSS -->
+    <script type="text/javascript">
+    (function (d,s,u,e,p) {
+      p=d.getElementsByTagName(s)[0],e=d.createElement(s),e.async=1,e.src=u,p.parentNode.insertBefore(e, p);
+    })(document, 'script', 'https://script.ringostat.com/v4/44/4471f95785dc0992a846a479166cc697b3066d15.js');
+    var pw = function() {if (typeof(ringostatAnalytics) === "undefined") {setTimeout(pw,100);} else {ringostatAnalytics.sendHit('pageview');}};
+    pw();
+</script>
 </head>
 <body>
     <header>
