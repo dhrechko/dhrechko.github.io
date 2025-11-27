@@ -21,6 +21,17 @@
                 <li><a href="#about">О проекте</a></li>
                 <li><a href="#contact">Контакты</a></li>
             </ul>
+            <div class="aroma-header__top">
+                <div class="aroma-header__top-left-links">
+                 <a href="tel:+380675095964">
+                     <svg width="14" height="21" viewBox="0 0 14 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                         <rect x="1" y="1.54993" width="12" height="18" stroke="#212121" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></rect>
+                         <path d="M7 16.2166H7.01111" stroke="#212121" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                     </svg>
+                     +38 067 509 59 64
+                 </a>
+                </div>
+            </div>    
         </nav>
     </header>
 
