@@ -40,7 +40,7 @@
             <input type="tel" name="phone" placeholder="+380..." required>
         </label>
 
-        <button type="submit">Отправить</button>
+        <button type="submit" class="ringostat">Отправить</button>
     </form>
 </div>
 
