@@ -32,12 +32,12 @@
     <form action="#" method="post">
         <label>
             Имя:
-            <input type="text" name="name" required>
+            <input type="text" class="ringostatphone" name="name" required>
         </label>
 
         <label>
             Номер телефона:
-            <input type="tel" name="phone" placeholder="+380..." required>
+            <input type="tel" name="phone" class="ringostatname" placeholder="+380..." required>
         </label>
 
         <button type="submit" class="ringostat">Отправить</button>
