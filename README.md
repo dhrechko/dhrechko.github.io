@@ -30,7 +30,7 @@
 <script type="text/javascript">
     (function (d,s,u,e,p) {
       p=d.getElementsByTagName(s)[0],e=d.createElement(s),e.async=1,e.src=u,p.parentNode.insertBefore(e, p);
-    })(document, 'script', 'https://script.ringostat.com/v4/0c/0cfa764fc3e1b37a0468e9aab03f2ed35297e505.js');
+    })(document, 'script', 'https://script.ringostat.com/v4/e2/e2656b682894fe4968ebb937b28f1c80557ed878.js');
     var pw = function() {if (typeof(ringostatAnalytics) === "undefined") {setTimeout(pw,100);} else {ringostatAnalytics.sendHit('pageview');}};
     pw();
 </script>
