@@ -9,6 +9,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-0XQ4JBL17F');
+</script>
     <meta charset="UTF-8">
     <title>Форма заявки</title>
     <style>
